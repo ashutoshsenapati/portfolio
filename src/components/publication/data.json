@@ -1,31 +1,31 @@
 {
     "articles": [
         {
-            "title": "RealSketch",
+            "title": "Mathmatics - Level 1",
             "description": "GAN based photo realistic image generator using Nested U-Net",
             "isPaper": true,
             "published": false,
-            "url": "#",
+            "url": "https://www.youtube.com/channel/UCq-Fj5jknLsUf-MWSy4_brA",
             "imgUrl": "/assets/images/paper.png"
         },
         {
-            "title": "Web Components in a Nutshell",
+            "title": "Mathmatics - Level 2",
             "description": "Fundamentals of native browser web components and how to create them.",
             "isPaper": false,
             "published": true,
-            "url": "https://levelup.gitconnected.com/web-components-in-a-nutshell-1e114aa971b9",
+            "url": "https://www.youtube.com/channel/UCq-Fj5jknLsUf-MWSy4_brA",
             "imgUrl": "/assets/images/js.png"
         },
         {
-            "title": "Ionic Currency Converter",
+            "title": "Mathmatics - Level 3",
             "description": "Let’s learn ionic by creating a simple real-world application.",
             "isPaper": false,
             "published": true,
-            "url": "https://levelup.gitconnected.com/ionic-currency-converter-8f33d3d76d2d",
+            "url": "https://www.youtube.com/channel/UCq-Fj5jknLsUf-MWSy4_brA",
             "imgUrl": "/assets/images/ionic.png"
         },
         {
-            "title": "JavaScript ES10/ES2019 Features",
+            "title": "Mathmatics - Level 4",
             "description": "New features of ES10/ECMAScript 2019",
             "isPaper": false,
             "published": true,

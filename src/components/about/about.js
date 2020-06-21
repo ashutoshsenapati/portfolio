@@ -4,27 +4,27 @@ import { Link } from "react-router-dom";
 
 const skills = [
     {
-        "type": "JavaScript",
+        "type": "Overall Assessment",
         "level": 80
     },
     {
-        "type": "Java",
+        "type": "Statistics",
         "level": 70
     },
     {
-        "type": "NodeJS",
+        "type": "Calculus",
         "level": 60
     },
     {
-        "type": "Python",
+        "type": "Time and Distance",
         "level": 60
     },
     {
-        "type": "React JS",
+        "type": "Algenra",
         "level": 70
     },
     {
-        "type": "Angular",
+        "type": "Trigonometry",
         "level": 70
     }
 ]
@@ -33,18 +33,16 @@ function About() {
   return (
     <div className="aboutContainer">
       <div className="primaryAbt">
-        <p className="titleText">About Me</p>
+        <p className="titleText">About Us</p>
         <p className="paraText">
-          I'm currently a software engineering undergraduate, a fullstack
-          software developer always fueled by my passion. I enjoy building
-          everything, from small business sites to rich interactive web apps.
-          I'm able to master new skills and concepts quickly which I consider as
-          the most essential aspect in developing my career. I'm also a
-          passionate photographer dedicated to inspire the world in creating
-          their moments.
+        MAthtrix is an ed-tech company which intends to be India’s most loved school learning app that offers 
+        personalized learning of Mathematics concepts to students, suited to their learning style and speed. 
+        Learning programs from MAthtrix are available for students of different levels and competitive exams
+        <p>This app helps students understand concepts thoroughly through movie-like lessons, regular tests, real live examples and practice sessions. 
+        Delivering a world-class learning experience, programs from MAthtrix is making students fall in love with learning and become self-initiated learners.</p>
         </p>
         <Link to="/contact">
-          <input type="button" className="primaryBtn" value="Contact Me" />
+          <input type="button" className="primaryBtn" value="Contact Us" />
         </Link>
       </div>
 

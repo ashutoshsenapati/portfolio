@@ -17,13 +17,13 @@ function Contact() {
   return (
     <div className="contactCont">
       <div class="primaryContact">
-        <p className="titleText">Contact Me</p>
+        <p className="titleText">Contact Us</p>
         <p className="paraText">
-          Currently im interested doing projects as a freelancer. If you have a project to be done feel free to
+          Currently we are accepting admissions. By joining us you will get personalized attention of our team.
           contact me!
         </p>
         <p className="paraText">
-          You can reach me via <span className="coloured">thivagartm@gmail.com</span>
+          You can reach me via <span className="coloured">ashutoshse1@gmail</span>
         </p>
       </div>
 
@@ -56,22 +56,16 @@ function Contact() {
             <div align="center" className="socialbtns">
             <ul>
                 <li>
-                <a href="https://medium.com/@thivagartm" class="fa fa-lg fa-medium" target="_blank"></a>
+                <a href="https://twitter.com/ashutoshse1" class="fa fa-lg fa-twitter" target="_blank"></a>
                 </li>
                 <li>
-                <a href="https://twitter.com/thiva_mahen" class="fa fa-lg fa-twitter" target="_blank"></a>
+                <a href="https://github.com/ashutoshsenapati" class="fa fa-lg fa-github" target="_blank"></a>
                 </li>
                 <li>
-                <a href="https://github.com/thivatm" class="fa fa-lg fa-github" target="_blank"></a>
+                <a href="https://www.linkedin.com/in/ashutoshsenapati/" class="fa fa-lg fa-linkedin" target="_blank"></a>
                 </li>
                 <li>
-                <a href="https://stackoverflow.com/users/9997860/thivagar" class="fa fa-lg fa-stack-overflow" target="_blank"></a>
-                </li>
-                <li>
-                <a href="https://www.linkedin.com/in/tm-851422138/" class="fa fa-lg fa-linkedin" target="_blank"></a>
-                </li>
-                <li>
-                <a href="https://www.instagram.com/thivag__ar/" class="fa fa-lg fa-instagram" target="_blank"></a>
+                <a href="https://www.instagram.com/ashutosh_5enapati/?hl=en" class="fa fa-lg fa-instagram" target="_blank"></a>
                 </li>
             </ul>
             </div>
